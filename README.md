@@ -6,10 +6,10 @@ T3200
 T3100E  CGA only, 4 intensity combinations
 T3200SX
 
-| Model | Downsides | test | test2 | test3 |
+| Model | CPU | test | test2 | test3 |
 |-------|-----------|------|-------|-------|
 | T3200 | 
-
+| T3200SX | 386SX | VGA, 16 shades| 
 
 
 
