@@ -8,9 +8,11 @@
 | CPU | 808286 @ 8MHz | T3100e | T3100SX | 80286 @ 12MHz | 386SX @ 16MHz | 386SX @ 16MHz | 386DX @ 20MHz |
 | HDD | 20MB  | T3100e | T3100SX | T3200 | 40MB or 120MB | T5100 | 100MB/200MB  |
 | Display Type | T3100 | T3100e | T3100SX | T3200 | VGA, 16 shades | T5100 | VGA, 16 shades |
-| Display Res | T3100 | T3100e | T3100SX | T3200 | VGA, 16 shades | T5100 | VGA, 16 shades |
+| Display Res | T3100 | T3100e | T3100SX | T3200 | VGA, 16 shades | 640x400, 4 shades | VGA, 16 shades |
 | Power | T3100 | T3100e | T3100SX | T3200 | T3200SX | T5100 | T5200 |AC only | AC Only |
-| External Display | T3100 | T3100e | T3100SX | T3200 | T3200SX | T5100 | T5200 ||
+| External Display | T3100 | T3100e | T3100SX | T3200 | T3200SX | 9-pin | VGA ||
+| FDD |  T3100 | T3100e | T3100SX | T3200 | T3200SX | 1.44MB | 1.44MB |
+| ISA Slots |  T3100 | T3100e | T3100SX | T3200 | 2 | T5100 | 2 |
 
 | Pic | Model | CPU | HDD | Display | Keyboard | Power Source | FDD | RAM | Video connector | Expansion |
 |-|------|-----------|------|-------|-------|--|--|-|-|--|
