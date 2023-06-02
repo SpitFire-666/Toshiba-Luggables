@@ -39,5 +39,5 @@ https://www.vogons.org/viewtopic.php?f=46&t=75471
 https://www.vogons.org/viewtopic.php?t=60109
 https://www.vogons.org/viewtopic.php?p=823257#p823257
 
-### T3200 disassembly
+### T3200SX disassembly
 http://omolini.steptail.com/t3200sx/mirror/www.ailis.de/~k/archives/21-Toshiba-T3200-SXC.html
